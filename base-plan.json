@@ -1,16 +1,16 @@
 {
   "holy_verse": "Благослови, душа моя, Господа, и вся внутренность моя — святое имя Его. ² Благослови, душа моя, Господа и не забывай всех благодеяний Его. Пс 102:1-2",
-  "hymn_begin_first": "Гимны надежды 243 К свободе призваны",
+  "hymn_begin_first": "Гимны надежды 261 Дружной радостной семьёю",
   "extra_field_first": "",
-  "missionary_news": "",
+  "missionary_news": "Элона",
   "holy_school": "",
   "donate": "",
   "extra_field2_first": "",
-  "hymn_end_first": "",
-  "hymn_begin_second": "",
-  "announcement": ["a1", "a2"],
+  "hymn_end_first": "Гимны надежды 245 Мы верные слуги Христовы",
+  "hymn_begin_second": "Гимны надежды 263 Дни жизни нам даны",
+  "announcement": [],
   "catch_donate": "",
   "extra_field_second": "",
-  "extra_field2_second": "",
-  "hymn_end_second": ""
+  "extra_field2_second": "Пение Валера",
+  "hymn_end_second": "Гимны надежды 151 Просите и будет дано"
 }
