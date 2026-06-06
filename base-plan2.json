@@ -14,7 +14,7 @@
   },
   {
     "$type": "responsible",
-    "Responsible": "131 - В день Твой субботний",
+    "Responsible": "128 - Взгляните как сегодня",
     "Label": "Гимн"
   },
   {
@@ -22,17 +22,13 @@
     "Label": "Общая молитва"
   },
   {
-    "$type": "text",
-    "Label": "Миссионерские вести"
-  },
-  {
     "$type": "responsible",
-    "Responsible": "Николаев В. Б.",
+    "Responsible": ""
     "Label": "СУББОТНЯЯ ШКОЛА"
   },
   {
     "$type": "responsible",
-    "Responsible": "263 - Дни жизни нам даны",
+    "Responsible": "172 - Если дух твой утомился",
     "Label": "Гимн"
   },
   {
@@ -61,7 +57,7 @@
   },
   {
     "$type": "responsible",
-    "Responsible": "142 - Не богатство земное",
+    "Responsible": "140 - Верь так просто",
     "Label": "Гимн"
   },
   {
@@ -87,7 +83,7 @@
   },
   {
     "$type": "responsible",
-    "Responsible": "381 - Взоры поднимаем к небесам",
+    "Responsible": "99 - да будет Тебе",
     "Label": "Гимн"
   },
   {
