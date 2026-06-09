@@ -14,7 +14,7 @@
   },
   {
     "$type": "responsible",
-    "Responsible": "128 - Взгляните как сегодня",
+    "Responsible": "131 - В день Твой субботний",
     "Label": "Гимн"
   },
   {
@@ -22,13 +22,12 @@
     "Label": "Общая молитва"
   },
   {
-    "$type": "responsible",
-    "Responsible": ""
+    "$type": "text",
     "Label": "СУББОТНЯЯ ШКОЛА"
   },
   {
     "$type": "responsible",
-    "Responsible": "172 - Если дух твой утомился",
+    "Responsible": "372 - Не оставлю Я вас",
     "Label": "Гимн"
   },
   {
@@ -57,7 +56,7 @@
   },
   {
     "$type": "responsible",
-    "Responsible": "140 - Верь так просто",
+    "Responsible": "283 - Будьте добры",
     "Label": "Гимн"
   },
   {
